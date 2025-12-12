@@ -1,7 +1,0 @@
-<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-0ff6b60c|lwb1978|Thu Dec 11 10:54:26 2025 +0800|luci: optimize `multivalue` template
-49237527|lwb1978|Thu Dec 11 01:18:46 2025 +0800|luci: optimize `multivalue` template
-</details>
